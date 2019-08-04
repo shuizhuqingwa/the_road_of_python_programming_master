@@ -1,0 +1,5 @@
+
+alex|pass|1000
+jack|123|70800
+password|password|800
+bin|123456|94000
